@@ -1,0 +1,17 @@
+h1 {
+  margin: auto;
+  padding-top: 150px;
+  color: black;
+  font-size: 6em;
+  text-align: center;
+}
+
+.intro {
+  height: 350px;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 3em;
+  }
+}
